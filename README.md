@@ -5,3 +5,5 @@ This was one of the first golang scraper I wrote to scrape number of followers o
 The program also used channels in golang for multi-threading to speed things up.
 
 To further speed things up, you can add proxies in the file to avoid hitting roadblocks.
+
+
