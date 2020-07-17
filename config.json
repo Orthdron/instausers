@@ -1,0 +1,11 @@
+{
+  "requirement": "mac or linux system",
+  "note": "all text files should already exist and preferably in same directory",
+  "threads": 100,
+  "delay": 0,
+  "list": "userlist.txt",
+  "over10kfile": "over10k.txt",
+  "under10kfile": "under10k.txt",
+  "error": "error.txt",
+  "proxyfile": "proxy.txt"
+}
